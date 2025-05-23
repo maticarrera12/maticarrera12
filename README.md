@@ -1,9 +1,9 @@
-## Hi there 👋
-# 💫 About Me:
+## Hi there 👋 I'm Matias
+# 💫 About Me
 Fullstack Developer<br>
 
 # 🛠️ Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,ts,java,spring,mysql,nodejs,react,mongodb,py,js,express,firebase,hibernate,materialui,tailwind,git,html,css)](https://skillicons.dev)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maticarrera12/maticarrera12/output/github-snake-dark.svg" />
