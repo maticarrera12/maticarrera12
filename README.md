@@ -1,5 +1,20 @@
 ## Hi there 👋 I'm Matias
 # 💫 About Me
+- 🎓 **AI Engineering student** at Universidad de Palermo  
+- 🎨 3 years of **Graphic and Multimedia Design** at UADE  
+- 💡 Passionate about **UI design** and **problem solving**
+
+- 🛠️ **Current stack:**  
+  - Frontend: **ReactJS**, **Next.js**  
+  - Backend: **Node.js**, **Express**, **Java Spring Boot**  
+  - Database: **MongoDB**, **MySQL**
+
+- 🚀 **Highlighted projects:**  
+  - 🩺 [**medReserva**](https://med-reserva.vercel.app/): fullstack medical platform for appointment management  
+  - 🏡 [**Velyo**](https://github.com/maticarrera12/velyo-professional-developer): Airbnb-style app for booking accommodations
+
+
+- 🌱 Currently looking for my **first professional experience** in development
 Fullstack Developer<br>
 
 # 🛠️ Tech Stack
