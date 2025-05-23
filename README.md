@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Matias
+## Hi there 👋 I'm Matias, Full stack Developer from Argentina
 # 💫 About Me
 - 🎓 **AI Engineering student** at Universidad de Palermo  
 - 🎨 3 years of **Graphic and Multimedia Design** at UADE  
