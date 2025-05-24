@@ -1,4 +1,14 @@
 ## Hi there 👋 I'm Matias, Full stack Developer from Argentina
+
+# 📨 Connect with me:
+<div align="center">
+
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matias-carrera/)
+[![image](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/mcarreradev)
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mcarreradev12@gmail.com)
+  
+</div>
+
 # 💫 About Me
 - 🎓 **AI Engineering student** at Universidad de Palermo  
 - 🎨 3 years of **Graphic and Multimedia Design** at UADE  
