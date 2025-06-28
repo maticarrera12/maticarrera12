@@ -14,8 +14,9 @@
 - 🎨 3 years of **Graphic and Multimedia Design** at UADE  
 - 💡 Passionate about **UI design** and **problem solving**
 - 🚀 **Highlighted projects:**  
-  - 🩺 [**medReserva**](https://med-reserva.vercel.app/): fullstack medical platform for appointment management  
+  - 🩺 [**medReserva**](https://med-reserva.vercel.app): fullstack medical platform for appointment management  
   - 🏡 [**Velyo**](https://github.com/maticarrera12/velyo-professional-developer): Airbnb-style app for booking accommodations
+  -  [**InquirAI**](https://inquirai.vercel.app): Inpired in StackOverflow with AI integration
 
 
 - 🌱 Currently looking for my **first professional experience** in development
