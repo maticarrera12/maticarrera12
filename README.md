@@ -1,45 +1,38 @@
-## Hi there 👋 I'm Matias, Full stack Developer from Argentina
+### Hola, soy Matías 👋
 
-# 📨 Connect with me:
-<div align="center">
+Desarrollador Full Stack de Argentina. Estudio Ingeniería en Inteligencia
+Artificial en la Universidad de Palermo y vengo del diseño gráfico y
+multimedia (3 años en UADE).
 
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matias-carrera/)
-[![image](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/mcarreradev)
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mcarreradev12@gmail.com)
-  
-</div>
+Actualmente aprendiendo en público mientras profundizo React, Next.js y
+los fundamentos de JavaScript. Buscando mi primera experiencia profesional
+como desarrollador, idealmente remoto.
 
-# 💫 About Me
-- 🎓 **AI Engineering student** at Universidad de Palermo  
-- 🎨 3 years of **Graphic and Multimedia Design** at UADE  
-- 💡 Passionate about **UI design** and **problem solving**
-- 🚀 **Highlighted projects:**  
-  - 🩺 [**medReserva**](https://med-reserva.vercel.app): fullstack medical platform for appointment management  
-  - 🏡 [**Velyo**](https://github.com/maticarrera12/velyo-professional-developer): Airbnb-style app for booking accommodations
-  - 👨‍💻 [**InquirAI**](https://inquirai.vercel.app): Inpired in StackOverflow with AI integration
-
-
-- 🌱 Currently looking for my **first professional experience** in development
-Fullstack Developer<br>
-
-# 🛠️ Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=nextjs,ts,java,spring,mysql,nodejs,supabase,react,mongodb,js,express,firebase,hibernate,materialui,tailwind,git,html,css,py)](https://skillicons.dev)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maticarrera12/maticarrera12/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maticarrera12/maticarrera12/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/maticarrera12/maticarrera12/output/github-snake.svg" />
-</picture>
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=maticarrera12&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=maticarrera12&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=maticarrera12&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=maticarrera12&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+**Stack principal:** TypeScript, React, Next.js, Node.js, Tailwind CSS, PostgreSQL
 
 ---
-[![](https://visitcount.itsvg.in/api?id=maticarrera12&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🚀 Proyectos destacados
+
+**[medReserva](https://med-reserva.vercel.app)** · Plataforma fullstack para gestión de turnos médicos
+Stack: Next.js · TypeScript · Tailwind · [Repo](https://github.com/maticarrera12/medReserva)
+
+**[Velyo](https://github.com/maticarrera12/velyo-professional-developer)** · Plataforma de reservas de alojamientos estilo Airbnb
+Stack: Next.js · TypeScript · MongoDB · [Repo](https://github.com/maticarrera12/velyo-professional-developer)
+
+**[InquirAI](https://inquirai.vercel.app)** · Plataforma estilo StackOverflow con integración de IA
+Stack: Next.js · TypeScript · IA · [Repo](https://github.com/maticarrera12/InquirAI)
+
+---
+
+### 📍 Dónde encontrarme
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/matias-carrera/)
+- 🐦 [X / Twitter](https://x.com/mcarreradev)
+- 📧 mcarreradev12@gmail.com
+- 🌐 Blog y portfolio: *próximamente en línea*
+
+---
+
+*Diseñador convertido a developer. Me interesa el cruce entre código limpio
+y buena experiencia de usuario.*
