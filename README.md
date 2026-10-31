@@ -10,6 +10,8 @@ Buscando mi primera experiencia profesional como desarrollador, idealmente remot
 
 **Stack principal:** TypeScript, React, Next.js, Astro, Node.js, Tailwind CSS, Supabase, PostgreSQL
 
+[![Portfolio de Matías Carrera](assets/portfolio.jpg)](https://mcarreradev.com)
+
 🌐 **Portfolio:** [mcarreradev.com](https://mcarreradev.com)
 
 ---
